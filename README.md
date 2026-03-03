@@ -15,7 +15,7 @@ Bu proje, Web Tasarımı ve Programlama dersi LAB-1 kapsamında Vite + React + T
 ## Kurulum
 ```bash
 npm install
-
+``` 
 
 ## Ekran Görüntüsü
-![Uygulama Ekranı](public/web-lab-1.png)
+![Uygulama Ekranı](./public/web-lab-1.png)
