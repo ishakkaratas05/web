@@ -2,10 +2,11 @@ import './App.css';
 function App() {
   return (
     <div>
-      <h1>Web Tasarimi ve Programlama</h1>
+      <h1>Web Tasarımı ve Programlama</h1>
       <h2>LAB - 1</h2>
-      <p>Ad Soyad: Ishak Karataş</p>
-      <p>Ogrenci No: 235541073</p>
+      <p>Ad Soyad: İshak Karataş</p>
+      <p>Öğrenci No: 235541073</p>
+      <p>Yazılım Mühendisliği Bölümü</p>
     </div>
   );
 }
